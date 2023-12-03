@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 Taking all resale flat prices in Singapore from 1990 to 2022, perform visualisations to analyse various factors influencing flat prices.
+
 Some factors include:
 
 - <b>Month of sale</b> 
