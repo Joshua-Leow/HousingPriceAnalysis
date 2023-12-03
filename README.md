@@ -1,14 +1,13 @@
 <h1>Housing Price Analysis</h1>
 
 <h2>Description</h2>
-Taking all resale flat prices in Singapore from 1990 to 2022, perform visualisations to analyse various factors influencing flat prices.
+<section></div>Extracting all resale flat prices in Singapore from <b>1990 to 2022</b> to perform visualisations and analyse various factors influencing flat prices.</section><br>
+<b>Key factors include:</b>
 
-Some factors include:
-
-- <b>Month of sale</b> 
+- <b>Month of sale</b>
 - <b>Year of sale</b>
 - <b>Distance to nearest MRT</b>
-- <b>Distance to CBD</b>
+- <b>Distance to Central Business District (CBD)</b>
 - <b>Location (towns)</b>
 - <b>Remaining lease</b>
 <br />
