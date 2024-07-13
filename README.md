@@ -17,11 +17,13 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Pandas dataframe</b>
+- <b>Pandas</b>
+- <b>geopandas</b>
 - <b>Contextily</b>
 - <b>Matplotlib</b>
-- <b>sqlite3 & SQLAlchemy</b>
-- <b>KMeans Clustering (Machine Learning)</b>
+- <b>sqlite3</b>
+- <b>SQLAlchemy</b>
+- <b>sklearn — KMeans, StandardScaler, haversine_distances</b>
 - <b>GoogleV3 geocoders</b>
 
 
